@@ -1,0 +1,3 @@
+buttonlab4.c:19:5:isButtonPressed	16	static
+buttonlab4.c:28:6:subKeyProcess	16	static
+buttonlab4.c:33:6:getKeyInput	32	static
